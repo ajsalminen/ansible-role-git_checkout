@@ -1,2 +1,3 @@
 ---
 # defaults file for ajsalminen.git_checkout
+git_checkout_version: HEAD
